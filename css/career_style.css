@@ -17,7 +17,8 @@ body {
 
 .career_type_style {
   font-family: 'Corben', cursive;
-  margin-top: 3rem; }
+  margin-top: 3rem;
+  font-size: 3rem; }
 
 .career_title_header {
   margin-top: 4rem;
