@@ -4,7 +4,10 @@ body {
 .hero_style_color {
   background-color: #1e90ff;
   color: #ffffff;
-  min-height: 25rem; }
+  min-height: 20rem; }
+  .hero_style_color .hero_header_style {
+    font-family: 'Corben', cursive;
+    font-size: 4rem; }
 
 .header_bottom_margin {
   padding-bottom: 10rem; }
@@ -13,10 +16,14 @@ body {
   font-family: 'Lato', sans-serif; }
 
 .career_type_style {
-  font-family: 'Corben', cursive; }
+  font-family: 'Corben', cursive;
+  margin-top: 3rem; }
 
 .career_title_header {
   margin-top: 4rem;
-  margin-bottom: 4rem; }
+  margin-bottom: 2rem; }
+
+.section_margin_style {
+  margin-bottom: 10rem; }
 
 /*# sourceMappingURL=career_style.css.map */

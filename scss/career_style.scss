@@ -10,9 +10,14 @@ body {
 
   background-color: #1e90ff;
   color: #ffffff;
-  min-height: 25rem;
+  min-height: 20rem;
 
+  .hero_header_style {
 
+    font-family: 'Corben', cursive;
+    font-size: 4rem;
+
+  }
 }
 
 .header_bottom_margin {
@@ -30,12 +35,18 @@ font-family: 'Lato', sans-serif;
 .career_type_style {
 
   font-family: 'Corben', cursive;
+  margin-top: 3rem;
 
 }
 
 .career_title_header {
 
 margin-top: 4rem;
-margin-bottom: 4rem;
+margin-bottom: 2rem;
 
+}
+
+.section_margin_style {
+
+  margin-bottom: 10rem;
 }
